@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>Make it dynamic</h3>
+<form action="/new-video" method="post">
+    <input type="text" name="name">
+    <button type="submit">Submit</button>
+</form>
+
+<ul>
+    {{#videos}}
+        <li>{{name}}</li>
+    {{/videos}}
+</ul>
+</body>
+</html>
