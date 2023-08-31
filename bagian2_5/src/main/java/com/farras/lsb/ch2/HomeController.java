@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import java.util.List;
 
 @Controller
-public class HomeController {
+public class    HomeController {
     private VideoService videoService;
 
     public HomeController(VideoService videoService){

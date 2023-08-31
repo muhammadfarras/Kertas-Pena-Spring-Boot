@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<ol>
+    <ul><a href="/">multi-field-search</a> </ul>
+    <ul><a href="/paging">search-paging</a> </ul>
+    <ul><a href="/universal">search-universal</a> </ul>
+</ol>
+<form action="/multi-field-search" method="post">
+    <table>
+        <tr>
+            <td><label for="name">Name:</label></td>
+            <td><input type="text" name="name"></td>
+        </tr>
+        <tr>
+            <td>
+                <label for="description">Description:</label>
+            </td>
+            <td>
+                <input type="text" name="description">
+            </td>
+        </tr>
+    </table>
+    <button type="submit">Search</button>
+</form>
+<ul>
+    {{#videos}}
+        <li>{{name}} {{description}}</li>
+    {{/videos}}
+</ul>
+</body>
+</html>

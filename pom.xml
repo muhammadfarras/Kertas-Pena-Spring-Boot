@@ -12,10 +12,13 @@
         <module>bagian2</module>
         <module>bagian2_2</module>
         <module>bagian2_3</module>
-        <module>bagain2_awal</module>
-        <module>bagian2_4(API)</module>
+        <module>bagian2_awal</module>
+        <module>bagian2_4API</module>
         <module>bagian_2_1_Test_Getter</module>
         <module>bagian2_5</module>
+        <module>bagian_bonus_jpa_restfull</module>
+        <module>bagian3_1</module>
+        <module>bagian4</module>
     </modules>
 
     <properties>

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.farras.lsb</groupId>
-	<artifactId>bagian2_1_Test_Getter</artifactId>
+	<artifactId>bagian_2_1_Test_Getter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Bagian 2 Test Getter</name>
 	<description>Membuat aplikasi dengan spring boot3</description>
