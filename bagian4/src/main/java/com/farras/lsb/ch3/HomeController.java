@@ -1,5 +1,7 @@
 package com.farras.lsb.ch3;
 
+import com.farras.lsb.ch3.DTO.UniversalSearch;
+import com.farras.lsb.ch3.DTO.VideoSearch;
 import com.farras.lsb.ch3.entitiy.VideoEntity;
 import com.farras.lsb.ch3.services.VideoService;
 import org.springframework.data.domain.Page;

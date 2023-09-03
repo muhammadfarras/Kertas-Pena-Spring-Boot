@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bagain2_awal/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_2/bagian2_3/src/main/java" charset="UTF-8" />
@@ -9,12 +10,14 @@
     <file url="file://$PROJECT_DIR$/bagian2_2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bagian2_4(API)/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_4API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_5/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_awal/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian2_awal/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian3_1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian3_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bagian4/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian_2_1_Test_Getter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian_2_1_Test_Getter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bagian_bonus_jpa_restfull/src/main/java" charset="UTF-8" />
